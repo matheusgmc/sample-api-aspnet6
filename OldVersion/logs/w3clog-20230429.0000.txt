@@ -1,0 +1,4 @@
+#Version: 1.0
+#Start-Date: 2023-04-29 20:51:12
+#Fields: date time c-ip s-computername s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status time-taken cs-version cs-host cs(User-Agent) cs(Referer)
+2023-04-29 20:51:09 127.0.0.1 pop-os 127.0.0.1 5184 GET /api/post/all - 200 1618.9728 HTTP/1.1 localhost:5184 Mozilla/5.0+(X11;+Linux+x86_64;+rv:109.0)+Gecko/20100101+Firefox/112.0 http://localhost:5184/swagger/index.html
